@@ -1,21 +1,30 @@
 Source: bluedevil
 Section: net
 Priority: optional
-Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+XSBC-Original-Maintainer: Paulo Dias <paulo.miguel.dias@gmail.com>
 Uploaders: Florian Reinhard <florian.reinhard@googlemail.com>,
            George Kiagiadakis <kiagiadakis.george@gmail.com>,
            Mark Purcell <msp@debian.org>,
            Modestas Vainius <modax@debian.org>
 Build-Depends: cmake,
-               debhelper (>= 9),
-               kdelibs5-dev (>= 4:4.4),
-               libbluedevil-dev (>= 2.0~rc1-6-g7bb223c),
-               pkg-kde-tools (>= 0.5),
+               extra-cmake-modules,
+               debhelper (>= 9.0.0),
+               libbluedevil-dev (>= 5.1.95),
+               pkg-kde-tools,
+               qtdeclarative5-dev,
+               libkf5coreaddons-dev,
+               libkf5widgetsaddons-dev,
+               libkf5dbusaddons-dev,
+               libkf5notifications-dev,
+               libkf5iconthemes-dev,
+               libkf5i18n-dev,
+               kio-dev,
                shared-mime-info
 Standards-Version: 3.9.6
-Homepage: https://projects.kde.org/projects/extragear/base/bluedevil
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/bluedevil.git
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/bluedevil.git;a=summary
+Homepage: https://projects.kde.org/projects/kde/workspace/bluedevil
+Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/bluedevil.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/bluedevil.git;a=summary
 
 Package: bluedevil
 Architecture: linux-any
