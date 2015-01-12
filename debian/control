@@ -8,18 +8,18 @@ Uploaders: Florian Reinhard <florian.reinhard@googlemail.com>,
            Mark Purcell <msp@debian.org>,
            Modestas Vainius <modax@debian.org>
 Build-Depends: cmake,
-               extra-cmake-modules,
                debhelper (>= 9.0.0),
+               extra-cmake-modules,
+               kio-dev,
                libbluedevil-dev (>= 5.1.95),
+               libkf5coreaddons-dev,
+               libkf5dbusaddons-dev,
+               libkf5i18n-dev,
+               libkf5iconthemes-dev,
+               libkf5notifications-dev,
+               libkf5widgetsaddons-dev,
                pkg-kde-tools,
                qtdeclarative5-dev,
-               libkf5coreaddons-dev,
-               libkf5widgetsaddons-dev,
-               libkf5dbusaddons-dev,
-               libkf5notifications-dev,
-               libkf5iconthemes-dev,
-               libkf5i18n-dev,
-               kio-dev,
                shared-mime-info
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/kde/workspace/bluedevil
@@ -29,8 +29,8 @@ Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/bluedevil.git;a=
 Package: bluedevil
 Architecture: linux-any
 Depends: bluez (>= 5),
-         obex-data-server,
          bluez-obexd,
+         obex-data-server,
          ${misc:Depends},
          ${shlibs:Depends}
 Suggests: pulseaudio-module-bluetooth | bluez-alsa
