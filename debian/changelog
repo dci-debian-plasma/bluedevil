@@ -1,8 +1,8 @@
-bluedevil (4:5.1.95-0ubuntu1) UNRELEASED; urgency=medium
+bluedevil (4:5.1.95-0ubuntu1) vivid; urgency=medium
 
   * Firs release for KF5
 
- -- Paulo Dias <paulo.miguel.dias@gmail.com>  Mon, 12 Jan 2015 13:11:58 -0200
+ -- Paulo Dias <paulo.miguel.dias@gmail.com>  Thu, 15 Jan 2015 01:18:35 +0100
 
 bluedevil (2.0~rc1-44-gb7697a7-3) unstable; urgency=medium
 
