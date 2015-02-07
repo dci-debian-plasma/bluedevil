@@ -1,8 +1,12 @@
-bluedevil (4:5.2.0-0ubuntu1) UNRELEASED; urgency=medium
+bluedevil (4:5.2.0-1~) UNRELEASED; urgency=medium
 
+  [ Harald Sitter ]
   * New upstream release
 
- -- Harald Sitter <sitter@kde.org>  Tue, 27 Jan 2015 14:52:19 +0100
+  [ Maximiliano Curia ]
+  * Prepare initial Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 07 Feb 2015 09:28:18 +0100
 
 bluedevil (4:5.1.95-0ubuntu1) vivid; urgency=medium
 
