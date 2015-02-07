@@ -7,6 +7,8 @@ bluedevil (4:5.2.0-1~) UNRELEASED; urgency=medium
   * Prepare initial Debian release.
   * Add myself as Uploader.
   * Update watch file.
+  * Update build dependencies to build against experimental and to
+    follow cmake.
 
  -- Maximiliano Curia <maxy@debian.org>  Sat, 07 Feb 2015 09:28:18 +0100
 
