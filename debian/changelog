@@ -5,6 +5,7 @@ bluedevil (4:5.2.0-1~) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
   * Prepare initial Debian release.
+  * Add myself as Uploader.
 
  -- Maximiliano Curia <maxy@debian.org>  Sat, 07 Feb 2015 09:28:18 +0100
 

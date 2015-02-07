@@ -2,11 +2,11 @@ Source: bluedevil
 Section: net
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-XSBC-Original-Maintainer: Paulo Dias <paulo.miguel.dias@gmail.com>
 Uploaders: Florian Reinhard <florian.reinhard@googlemail.com>,
            George Kiagiadakis <kiagiadakis.george@gmail.com>,
            Mark Purcell <msp@debian.org>,
-           Modestas Vainius <modax@debian.org>
+           Modestas Vainius <modax@debian.org>,
+           Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake,
                debhelper (>= 9.0.0),
                extra-cmake-modules,
