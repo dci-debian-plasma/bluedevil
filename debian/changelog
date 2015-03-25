@@ -5,6 +5,12 @@ bluedevil (4:5.2.2-1~) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 25 Mar 2015 09:58:04 +0100
 
+bluedevil (4:5.2.1-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release.
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 23 Feb 2015 09:31:43 -0800
+
 bluedevil (4:5.2.0-1) experimental; urgency=medium
 
   [ Harald Sitter ]
