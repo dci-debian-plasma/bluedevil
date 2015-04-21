@@ -1,3 +1,9 @@
+bluedevil (4:5.2.95-0ubuntu1) UNRELEASE; urgency=medium
+
+  * Beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 21 Apr 2015 13:35:10 +0200
+
 bluedevil (4:5.2.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release. 
