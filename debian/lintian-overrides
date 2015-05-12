@@ -1,3 +1,2 @@
-bluedevil: binary-without-manpage usr/bin/bluedevil-monolithic
 bluedevil: binary-without-manpage usr/bin/bluedevil-sendfile
 bluedevil: binary-without-manpage usr/bin/bluedevil-wizard
