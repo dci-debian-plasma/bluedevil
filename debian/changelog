@@ -17,17 +17,40 @@ bluedevil (4:5.2.2-0ubuntu1) vivid; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 24 Mar 2015 06:30:31 -0700
 
+bluedevil (4:5.3.1-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.3.0).
+  * New upstream release (5.3.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 05 Jun 2015 11:56:22 +0200
+
+bluedevil (4:5.2.2-1) experimental; urgency=medium
+
+  * New upstream release (5.2.1).
+  * New upstream release (5.2.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 25 Mar 2015 23:17:46 +0100
+
 bluedevil (4:5.2.1-0ubuntu1) vivid; urgency=medium
 
   * New upstream release.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 23 Feb 2015 09:31:43 -0800
 
-bluedevil (4:5.2.0-0ubuntu1) UNRELEASED; urgency=medium
+bluedevil (4:5.2.0-1) experimental; urgency=medium
 
+  [ Harald Sitter ]
   * New upstream release
 
- -- Harald Sitter <sitter@kde.org>  Tue, 27 Jan 2015 14:52:19 +0100
+  [ Maximiliano Curia ]
+  * Prepare initial Debian release.
+  * Add myself as Uploader.
+  * Update watch file.
+  * Update build dependencies to build against experimental and to
+    follow cmake.
+  * Update copyright information.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 07 Feb 2015 19:09:05 +0100
 
 bluedevil (4:5.1.95-0ubuntu1) vivid; urgency=medium
 
