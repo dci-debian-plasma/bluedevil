@@ -34,6 +34,7 @@ Architecture: linux-any
 Depends: bluez (>= 5),
          bluez-obexd,
          obex-data-server,
+         qml-module-org-kde-bluezqt,
          ${misc:Depends},
          ${shlibs:Depends}
 Suggests: pulseaudio-module-bluetooth | bluez-alsa
