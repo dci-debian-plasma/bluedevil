@@ -1,4 +1,4 @@
-bluedevil (4:5.3.2-1~) UNRELEASED; urgency=medium
+bluedevil (4:5.3.2-1) unstable; urgency=medium
 
   * New upstream release (5.3.0).
   * New upstream release (5.3.1).
@@ -7,7 +7,9 @@ bluedevil (4:5.3.2-1~) UNRELEASED; urgency=medium
   [ José Manuel Santamaría Lema ]
   * Add dependency on qml-module-org-kde-bluezqt.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 30 Jun 2015 12:24:55 +0200
+  [ Maximiliano Curia ]
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 01 Jul 2015 10:22:53 +0200
 
 bluedevil (4:5.2.2-0ubuntu1) vivid; urgency=medium
 
