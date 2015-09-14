@@ -36,6 +36,7 @@ Depends: bluez (>= 5),
          bluez-obexd,
          obex-data-server,
          qml-module-org-kde-bluezqt,
+         qml-module-org-kde-kio,
          ${misc:Depends},
          ${shlibs:Depends}
 Suggests: pulseaudio-module-bluetooth | bluez-alsa

@@ -1,3 +1,10 @@
+bluedevil (4:5.4.1-2) unstable; urgency=medium
+
+  * Team upload.
+  * Add missing dependency on qml-module-org-kde-kio.
+
+ -- Felix Geyer <fgeyer@debian.org>  Mon, 14 Sep 2015 18:10:57 +0200
+
 bluedevil (4:5.4.1-1) unstable; urgency=medium
 
   * New upstream release (5.4.1).
