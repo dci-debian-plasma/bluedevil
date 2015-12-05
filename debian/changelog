@@ -1,3 +1,9 @@
+bluedevil (4:5.4.3-0ubuntu2) UNRELEASED; urgency=medium
+
+  * Debian merge: No remaining changes. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 04 Dec 2015 18:02:48 -0800
+
 bluedevil (4:5.4.3-0ubuntu1) xenial; urgency=medium
 
   [ Scarlett Clark ]
@@ -8,13 +14,56 @@ bluedevil (4:5.4.3-0ubuntu1) xenial; urgency=medium
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 22 Nov 2015 16:26:00 +0100
 
-bluedevil (4:5.4.2-0ubuntu1) UNRELEASED; urgency=medium
+bluedevil (4:5.4.3-1) unstable; urgency=medium
 
-  * Vivid backport
+  * New upstream release (5.4.3).
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 05 Oct 2015 11:32:13 -0700
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Dec 2015 11:45:58 +0100
 
-bluedevil (4:5.4.2-0ubuntu1) wily; urgency=medium
+bluedevil (4:5.4.2-1) unstable; urgency=medium
+
+  * Drop obex-data-server dependency. (Closes: #780795) Thanks to David Rosca
+  * New upstream release (5.4.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 06 Oct 2015 07:52:14 +0200
+
+bluedevil (4:5.4.1-2) unstable; urgency=medium
+
+  * Team upload.
+  * Add missing dependency on qml-module-org-kde-kio.
+
+ -- Felix Geyer <fgeyer@debian.org>  Mon, 14 Sep 2015 18:10:57 +0200
+
+bluedevil (4:5.4.1-1) unstable; urgency=medium
+
+  * New upstream release (5.4.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 11 Sep 2015 18:45:26 +0200
+
+bluedevil (4:5.4.0-1) unstable; urgency=medium
+
+  * New upstream release (5.4.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 03 Sep 2015 22:06:36 +0200
+
+bluedevil (4:5.3.2-1) unstable; urgency=medium
+
+  * New upstream release (5.3.0).
+  * New upstream release (5.3.1).
+  * New upstream release (5.3.2).
+
+  [ José Manuel Santamaría Lema ]
+  * Add dependency on qml-module-org-kde-bluezqt.
+
+  [ Maximiliano Curia ]
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 01 Jul 2015 10:22:53 +0200
+
+bluedevil (4:5.2.2-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release.
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 24 Mar 2015 06:30:31 -0700
 
   * New upstream release
 

@@ -19,6 +19,7 @@ Build-Depends: cmake (>= 2.8.12),
                libkf5iconthemes-dev,
                libkf5notifications-dev,
                libkf5widgetsaddons-dev,
+               libkf5windowsystem-dev,
                pkg-kde-tools (>= 0.15.16),
                plasma-framework-dev,
                qtbase5-dev (>= 5.4.0~),
@@ -33,8 +34,8 @@ Package: bluedevil
 Architecture: linux-any
 Depends: bluez (>= 5),
          bluez-obexd,
-         obex-data-server,
          qml-module-org-kde-bluezqt,
+         qml-module-org-kde-kio,
          ${misc:Depends},
          ${shlibs:Depends}
 Suggests: pulseaudio-module-bluetooth | bluez-alsa
