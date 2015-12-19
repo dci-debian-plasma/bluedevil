@@ -2,6 +2,7 @@ bluedevil (4:5.5.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * Debian merge: No remaining changes. 
   * New upstream release Xenial
+  * Fix changelog syntax error. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 18 Dec 2015 07:19:40 -0800
 
@@ -49,6 +50,7 @@ bluedevil (4:5.4.0-1) unstable; urgency=medium
 
 bluedevil (4:5.3.2-1) unstable; urgency=medium
 
+  [ Maximiliano Curia ]
   * New upstream release (5.3.0).
   * New upstream release (5.3.1).
   * New upstream release (5.3.2).
@@ -56,17 +58,11 @@ bluedevil (4:5.3.2-1) unstable; urgency=medium
   [ José Manuel Santamaría Lema ]
   * Add dependency on qml-module-org-kde-bluezqt.
 
-  [ Maximiliano Curia ]
-
  -- Maximiliano Curia <maxy@debian.org>  Wed, 01 Jul 2015 10:22:53 +0200
 
 bluedevil (4:5.2.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release.
-
- -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 24 Mar 2015 06:30:31 -0700
-
-  * New upstream release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 02 Oct 2015 15:50:24 +0100
 
