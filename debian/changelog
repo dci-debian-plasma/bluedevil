@@ -1,3 +1,11 @@
+bluedevil (4:5.6.2-1~1.gbpa4e2a8) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @a4e2a8d066132ac1d9d06f4f743826a0a3269091 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 06 Apr 2016 23:26:17 +0200
+
 bluedevil (4:5.5.4-1) experimental; urgency=medium
 
   * New upstream release (5.5.0).
