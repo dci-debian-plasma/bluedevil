@@ -1,11 +1,22 @@
-bluedevil (4:5.6.2-1~1.gbpa4e2a8) UNRELEASED; urgency=medium
+bluedevil (4:5.6.3-1~1.gbpbd1e40) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @bd1e40574521920109033e76fc6c451cc9b202cf **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @a4e2a8d066132ac1d9d06f4f743826a0a3269091 **
 
   * New upstream release (5.5.5).
   * New upstream release (5.6.2).
- 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 06 Apr 2016 23:26:17 +0200
+   * [[[insert-git-dch-commit-message-here]]]
+  * New upstream release (5.5.5).
+  * Add upstream metadata (DEP-12)
+  * New upstream release (5.6.2).
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 19 Apr 2016 18:26:19 +0200
 
 bluedevil (4:5.5.4-1) experimental; urgency=medium
 
