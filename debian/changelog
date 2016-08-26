@@ -1,12 +1,8 @@
-bluedevil (4:5.7.4-1~1.gbpa504c0) UNRELEASED; urgency=medium
+bluedevil (4:5.7.4-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @a504c05cd44c4a1de28d2d317729290c581ae6dd **
+  * New upstream release (5.7.4)
 
-  * UNRELEASED
-  * UNRELEASED
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 24 Aug 2016 18:26:15 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 26 Aug 2016 14:44:58 +0200
 
 bluedevil (4:5.7.0-1) unstable; urgency=medium
 
