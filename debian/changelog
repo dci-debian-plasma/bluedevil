@@ -7,11 +7,47 @@ bluedevil (4:5.8.0-1~1.gbp9143d1) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 04 Oct 2016 13:38:50 +0200
 
+bluedevil (4:5.8.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 30 Sep 2016 11:29:13 +0000
+
+bluedevil (4:5.7.5-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 13 Sep 2016 13:45:29 +0000
+
 bluedevil (4:5.7.4-1) unstable; urgency=medium
 
   * New upstream release (5.7.4)
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 26 Aug 2016 14:44:58 +0200
+
+bluedevil (4:5.7.4-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 23 Aug 2016 17:28:01 +0000
+
+bluedevil (4:5.7.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 02 Aug 2016 12:04:05 +0000
+
+bluedevil (4:5.7.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 19 Jul 2016 13:46:37 +0000
+
+bluedevil (4:5.7.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 12 Jul 2016 16:06:03 +0000
 
 bluedevil (4:5.7.0-1) unstable; urgency=medium
 
@@ -19,11 +55,23 @@ bluedevil (4:5.7.0-1) unstable; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Sat, 09 Jul 2016 22:16:33 +0200
 
+bluedevil (4:5.7.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 04 Jul 2016 13:16:02 +0000
+
 bluedevil (4:5.6.5-1) unstable; urgency=medium
 
   * New upstream release.
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 23 Jun 2016 10:04:45 +0200
+
+bluedevil (4:5.6.5-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 14 Jun 2016 14:13:47 +0000
 
 bluedevil (4:5.6.4-1) unstable; urgency=medium
 
@@ -38,6 +86,24 @@ bluedevil (4:5.6.4-1) unstable; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 01:24:39 +0200
 
+bluedevil (4:5.6.4-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 11 May 2016 09:41:29 +0000
+
+bluedevil (4:5.6.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 19 Apr 2016 16:53:42 +0000
+
+bluedevil (4:5.6.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 08 Apr 2016 11:44:00 +0000
+
 bluedevil (4:5.5.4-1) experimental; urgency=medium
 
   * New upstream release (5.5.0).
@@ -47,6 +113,30 @@ bluedevil (4:5.5.4-1) experimental; urgency=medium
   * New upstream release (5.5.4).
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Jan 2016 16:49:06 +0100
+
+bluedevil (4:5.5.4-0ubuntu1) UNRELEASED; urgency=medium
+
+  [ Scarlett Clark ]
+  * Debian merge: No remaining changes. 
+  * New upstream release Xenial
+  * Fix changelog syntax error. 
+
+  [ Clive Johnston ]
+  * new upstream release
+  * New upstream release
+  * New upstream release
+
+ -- Clive Johnston <clivejo@aol.com>  Wed, 27 Jan 2016 20:04:03 +0000
+
+bluedevil (4:5.4.3-0ubuntu1) xenial; urgency=medium
+
+  [ Scarlett Clark ]
+  * New upstream bugfix release
+
+  [ Philip Muškovac ]
+  * New upstream bugfix release (LP: #1518598)
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sun, 22 Nov 2015 16:26:00 +0100
 
 bluedevil (4:5.4.3-1) unstable; urgency=medium
 
@@ -82,6 +172,7 @@ bluedevil (4:5.4.0-1) unstable; urgency=medium
 
 bluedevil (4:5.3.2-1) unstable; urgency=medium
 
+  [ Maximiliano Curia ]
   * New upstream release (5.3.0).
   * New upstream release (5.3.1).
   * New upstream release (5.3.2).
@@ -89,49 +180,35 @@ bluedevil (4:5.3.2-1) unstable; urgency=medium
   [ José Manuel Santamaría Lema ]
   * Add dependency on qml-module-org-kde-bluezqt.
 
-  [ Maximiliano Curia ]
-
  -- Maximiliano Curia <maxy@debian.org>  Wed, 01 Jul 2015 10:22:53 +0200
 
 bluedevil (4:5.2.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release.
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 24 Mar 2015 06:30:31 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 02 Oct 2015 15:50:24 +0100
 
-bluedevil (4:5.2.2-1) experimental; urgency=medium
+bluedevil (4:5.4.1-0ubuntu1) wily; urgency=medium
 
-  * New upstream release (5.2.1).
-  * New upstream release (5.2.2).
+  * new upstream release
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 25 Mar 2015 23:17:46 +0100
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 08 Sep 2015 10:08:44 +0100
 
-bluedevil (4:5.2.1-0ubuntu1) vivid; urgency=medium
+bluedevil (4:5.4.0-0ubuntu1) wily; urgency=medium
 
-  * New upstream release.
+  [ José Manuel Santamaría Lema ]
+  * Add dependency on qml-module-org-kde-bluezqt.
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 23 Feb 2015 09:31:43 -0800
-
-bluedevil (4:5.2.0-1) experimental; urgency=medium
-
-  [ Harald Sitter ]
+  [ Jonathan Riddell ]
   * New upstream release
 
-  [ Maximiliano Curia ]
-  * Prepare initial Debian release.
-  * Add myself as Uploader.
-  * Update watch file.
-  * Update build dependencies to build against experimental and to
-    follow cmake.
-  * Update copyright information.
+ -- José Manuel Santamaría Lema <panfaust@gmail.com>  Mon, 31 Aug 2015 15:46:02 +0100
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 07 Feb 2015 19:09:05 +0100
+bluedevil (4:5.1.95-0ubuntu1) wily; urgency=medium
 
-bluedevil (4:5.1.95-0ubuntu1) vivid; urgency=medium
+  * Upload bluez5 transitions ppa version to wily
 
-  * Firs release for KF5
-
- -- Paulo Dias <paulo.miguel.dias@gmail.com>  Thu, 15 Jan 2015 01:18:35 +0100
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 13 Aug 2015 17:44:08 +0200
 
 bluedevil (2.0~rc1-44-gb7697a7-3) unstable; urgency=medium
 
