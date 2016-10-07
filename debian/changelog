@@ -1,56 +1,8 @@
-bluedevil (4:5.8.0-1~2.gbp153063) UNRELEASED; urgency=medium
+bluedevil (4:5.8.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @153063f352d9b230d1b3dca2419e7a142617132e **
+  * New upstream release (5.8.0).
 
-  [ Maximiliano Curia ]
-  ** SNAPSHOT build @9143d1d2969e00c8725df35415493c7942ea5b4e **
-
-  * UNRELEASED
-  * UNRELEASED
-
-  [ Jonathan Riddell ]
-  * tidy changelog
-  * Release to wily.
-  * new upstream release
-  * Release to wily.
-  * NOCI Release to wily.
-  * update watch file to version=4 with pgp signature checking
-  * only stable tars used in neon
-  * update watch file to use gpg sigs and use stable only
-  * add missing qml deps
-  * update signing key to add david edmundson
-  * NOCI
-
-  [ Scarlett Clark ]
-  * New upstream release
-  * Vivid backport
-  * New upstream bugfix release
-  * New upstream release Xenial
-  * Fix changelog syntax error.
-
-  [ Philip Muškovac ]
-  * New upstream bugfix release (LP: #1518598)
-  * NOCI Release to xenial.
-
-  [ Clive Johnston ]
-  * new upstream release
-  * New upstream release
-  * New upstream release
-
-  [ Neon CI ]
-  * New release
-  * New release
-  * New release
-  * New release
-  * New release
-  * New release
-  * New release
-  * New release
-  * New release
-  * New release
-  * New release
-
- -- Jonathan Riddell <jr@jriddell.org>  Wed, 05 Oct 2016 17:26:28 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 07 Oct 2016 13:59:22 +0200
 
 bluedevil (4:5.8.0-0neon) xenial; urgency=medium
 
