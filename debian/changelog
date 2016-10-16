@@ -1,10 +1,8 @@
-bluedevil (4:5.8.1-1~1.gbp197032) UNRELEASED; urgency=medium
+bluedevil (4:5.8.1-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @197032aa7f46f2d10ef1693d2cd94bdce06a79f5 **
+  * New upstream release (5.8.1).
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 18:26:30 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 16 Oct 2016 22:54:14 +0200
 
 bluedevil (4:5.8.0-1) unstable; urgency=medium
 
