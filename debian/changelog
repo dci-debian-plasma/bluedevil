@@ -1,10 +1,8 @@
-bluedevil (4:5.8.2-1~1.gbp9dc285) UNRELEASED; urgency=medium
+bluedevil (4:5.8.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @9dc2854479d220b7d9450758723d7db94544d2e8 **
+  * New upstream release (5.8.2)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 18 Oct 2016 18:26:38 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 15:16:32 +0200
 
 bluedevil (4:5.8.1-1) unstable; urgency=medium
 
