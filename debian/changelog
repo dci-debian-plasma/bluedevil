@@ -1,3 +1,11 @@
+bluedevil (4:5.8.3-1~1.gbpb91bac) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @b91bac8527347ce6a3e12a999f6bd06ea775a7af **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Sun, 06 Nov 2016 00:26:11 +0100
+
 bluedevil (4:5.8.2-1) unstable; urgency=medium
 
   * New upstream release (5.8.2)
