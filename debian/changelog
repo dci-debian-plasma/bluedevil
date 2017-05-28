@@ -1,3 +1,15 @@
+bluedevil (4:5.8.7-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.8.7).
+    + ReceiveFileJob: Don't cancel the request right after accepting it
+
+      KNotification::closed is emitted also when one of the notification
+      actions was triggered.
+
+      KDE#376773
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 28 May 2017 18:26:47 +0200
+
 bluedevil (4:5.8.5-1) experimental; urgency=medium
 
   * New upstream release (5.8.5).
