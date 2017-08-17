@@ -6,7 +6,7 @@ Uploaders: Florian Reinhard <florian.reinhard@googlemail.com>,
            George Kiagiadakis <kiagiadakis.george@gmail.com>,
            Mark Purcell <msp@debian.org>,
            Modestas Vainius <modax@debian.org>,
-           Maximiliano Curia <maxy@debian.org>
+           Maximiliano Curia <maxy@debian.org>,
 Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
                extra-cmake-modules (>= 5.18.0~),
@@ -24,7 +24,7 @@ Build-Depends: cmake (>= 2.8.12),
                pkg-kde-tools (>= 0.15.16),
                qtbase5-dev (>= 5.4.0~),
                qtdeclarative5-dev (>= 5.4.0~),
-               shared-mime-info
+               shared-mime-info,
 Standards-Version: 4.0.0
 Homepage: https://projects.kde.org/projects/kde/workspace/bluedevil
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/plasma/bluedevil.git
@@ -41,7 +41,7 @@ Depends: bluez (>= 5),
          qml-module-qtquick-layouts,
          qml-module-qtquick2,
          ${misc:Depends},
-         ${shlibs:Depends}
+         ${shlibs:Depends},
 Suggests: pulseaudio-module-bluetooth | bluez-alsa
 Description: KDE Bluetooth stack
  BlueDevil is a set of components which integrate Bluetooth in KDE.
