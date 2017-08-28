@@ -161,20 +161,6 @@ bluedevil (4:5.5.4-1) experimental; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Jan 2016 16:49:06 +0100
 
-bluedevil (4:5.5.4-0ubuntu1) UNRELEASED; urgency=medium
-
-  [ Scarlett Clark ]
-  * Debian merge: No remaining changes. 
-  * New upstream release Xenial
-  * Fix changelog syntax error. 
-
-  [ Clive Johnston ]
-  * new upstream release
-  * New upstream release
-  * New upstream release
-
- -- Clive Johnston <clivejo@aol.com>  Wed, 27 Jan 2016 20:04:03 +0000
-
 bluedevil (4:5.4.3-0ubuntu1) xenial; urgency=medium
 
   [ Scarlett Clark ]
